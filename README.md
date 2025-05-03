@@ -18,7 +18,7 @@ The solution applies real-world data-driven methods such as ABC analysis, invent
 
 ## 🏢 Organization Background
 
-Samastipur Electronics is a local B2C electronics store in Samastipur, Bihar. It was founded in April 2021 by Mr. Rahul Shrivastav with an initial investment of ₹10,00,000. Today, it has grown to an annual turnover of ₹1.5 Crore. The store offers air conditioners, refrigerators, mobile phones, and more.
+Samastipur Electronics is a local B2C electronics store in Samastipur, Bihar. It was founded in April 2021 by Mr. Rahul Shrivastav with an initial investment of ₹10,00,000. Today, it has grown to an annual turnover of ₹50lakh+. The store offers air conditioners, refrigerators, mobile phones, and more.
 
 ---
 

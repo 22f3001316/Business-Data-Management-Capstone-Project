@@ -96,7 +96,7 @@ Samastipur Electronics is a local B2C electronics store in Samastipur, Bihar. It
 
 ## 🙏 Acknowledgements
 
-Special thanks to **Samastipur Electronics** and Mr. Rahul Shrivastav for data access and business insights.  
+Special thanks to **Samastipur Electronics** owner Mr. Rahul Shrivastav for data access and business insights.  
 This project is conducted as part of the curriculum and is not endorsed by IIT Madras.
 
 ---
